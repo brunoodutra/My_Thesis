@@ -1,4 +1,4 @@
-#This repositore contains the grasping force and EMG signals.
+# This repositore contains the grasping force and EMG signals.
 
 The system used for datalog and real-time visualization is shown in Fig. \ref{fig:setup}.
 The MYO armband (Thalmic Labs, Kitchener-Waterloo, Canada) was used to record sEMG signals from the upper limb. The MYO has eight sEMG input channels, wireless communication via Bluetooth protocol, sampling rate of 200 Hz and 8-bit resolution. Also, a force-sensitive-resistor (FSR) (Model 402, Interlink Electronics, Inc.) was used for force measurement with sensitivity from 1N to 50N. The FSR was inserted in an anti-stress ball and its inputs were fed into an Arduino-based data-acquisition (Daq) device, with a 10-bit analog-to-digital resolution. The datalog devices communicate with a Windows PC running Python for real-time visualization and data storage.
