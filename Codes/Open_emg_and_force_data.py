@@ -4,6 +4,7 @@ Created on Tue April 20 22:09:25 2022
 @author: bruno
 """
 
+
 # Open libraries 
 import numpy as np
 from numpy.linalg import inv
