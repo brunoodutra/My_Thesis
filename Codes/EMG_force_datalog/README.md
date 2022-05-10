@@ -35,6 +35,8 @@ Number | Muscle name
 
 ### At the beginning of the experiment, each participant received the following command: "Position the ball with the sensor facing the palm, then press the ball three times. The first time squeeze it with a small force, the second time with a medium  force, and the third time with the highest force. Pay attention to the commands to start and end the movement". The sEMG and the force exerted by each volunteer were simultaneously recorded within the 0-100 \% range of the maximum voluntary contraction (MVC), as shown in next Fig:  
 
-
-![plot](datalog_fig.png)
+<p align="center">
+<img src="datalog_fig.png"
+     height="300" width="350" >
+</p>
 
