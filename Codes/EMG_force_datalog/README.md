@@ -12,6 +12,7 @@ At the beginning of the experiment, each participant received the following comm
      height="300" width="350" >
 </p>
 
+<p align="center">
 ### Table 1
 Number | Muscle name 
 --- | --- |
@@ -23,3 +24,4 @@ Number | Muscle name
 (6) | Flexor Carpi Ulnaris  | 
 (7) | Palmaris Longus  | 
 (8) | Flexor Carpi Radiallis  | 
+</p>
