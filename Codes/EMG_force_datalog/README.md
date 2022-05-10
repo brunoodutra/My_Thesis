@@ -37,6 +37,6 @@ Number | Muscle name
 
 <p align="center">
 <img src="datalog_fig.png"
-     height="300" width="350" >
+     height="500" width="550" >
 </p>
 
