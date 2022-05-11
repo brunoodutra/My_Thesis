@@ -1,5 +1,10 @@
 # This repositore contains the grasping force and EMG signals datalog to free donwload.
 
+The Datalog presented here was used in research paper published in Biomedical Signal Processing and Control https://doi.org/10.1016/j.bspc.2021.103036, with title " Grasping force estimation using state-space model and Kalman Filter "
+
+For more information and any questions contact me: brunodutra@ufpa.br 
+Laboratory: http://lacos.ufpa.br/
+
 ### The system used for datalog and real-time visualization is shown next Fig:
 
 <p align="center">
