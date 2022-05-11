@@ -5,6 +5,7 @@ The Datalog presented here was used in research paper published in Biomedical Si
 A video with tests and more details can be seen in https://www.youtube.com/watch?v=0O3DBShHLiM&t=2s
 
 For more information and any questions, contact me: brunodutra@ufpa.br 
+
 Laboratory: http://lacos.ufpa.br/
 
 ### The system used for datalog and real-time visualization is shown next Fig:
