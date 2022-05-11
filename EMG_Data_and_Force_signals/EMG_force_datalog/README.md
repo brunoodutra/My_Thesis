@@ -1,5 +1,10 @@
 # This repositore contains the grasping force and EMG signals datalog to free donwload.
 
+The Datalog presented here was used in research paper published in Biomedical Signal Processing and Control https://doi.org/10.1016/j.bspc.2021.103036, with title " Grasping force estimation using state-space model and Kalman Filter "
+
+For more information and any questions contact me: brunodutra@ufpa.br 
+Laboratory: http://lacos.ufpa.br/
+
 ### The system used for datalog and real-time visualization is shown next Fig:
 
 <p align="center">
@@ -7,11 +12,6 @@
      height="400" width="350" >
 </p>
 
-The Datalog presented here was used in research paper published in Biomedical Signal Processing and Control https://doi.org/10.1016/j.bspc.2021.103036, with title " Grasping force estimation using state-space model and Kalman Filter "
-
-For more information and any questions contact me: brunodutra@ufpa.br 
-Laboratory: http://lacos.ufpa.br/
- 
 ### The MYO armband (Thalmic Labs, Kitchener-Waterloo, Canada) was used to record sEMG signals from the upper limb. The MYO has eight sEMG input channels, wireless communication via Bluetooth protocol, sampling rate of 200 Hz and 8-bit resolution. Also, a force-sensitive-resistor (FSR) (Model 402, Interlink Electronics, Inc.) was used for force measurement with sensitivity from 1N to 50N. The FSR was inserted in an anti-stress ball and its inputs were fed into an Arduino-based data-acquisition (Daq) device, with a 10-bit analog-to-digital resolution. The datalog devices communicate with a Windows PC running Python for real-time visualization and data storage.
 
 ### The experimental procedures were approved by the local ethics committee of the Federal University of Pará (82131517.1.0000.0018). A total of 10 healthy voluntaries (four females and six males, with 24 $\pm$ 4 years old) were selected for the grasping force estimation study and signed an informed consent. The MYO device was placed in the same forearm location for each subject. Channel 4 was used as reference and was positioned in the extensor digitorum muscle, as shown in next Fig:
