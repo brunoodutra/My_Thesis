@@ -3,7 +3,7 @@
 This code show how to open the  database of Emg signals and grasping force signal, disposable in extension " .m " in "EMG_force_datalog" path.
 
 More details about record of signals, used protocol, used electromyography and experimental setup are presented in "EMG_force_datalog" folder
-[Presented here](https://github.com/brunoodutra/My_Thesis/tree/main/Codes/EMG_force_datalog)
+[Presented here](https://github.com/brunoodutra/My_Thesis/tree/main/EMG_Data_and_Force_signals/EMG_force_datalog)
 
 
 ### Import libraries
