@@ -3,6 +3,7 @@
 The Datalog presented here was used in research paper published in Biomedical Signal Processing and Control https://doi.org/10.1016/j.bspc.2021.103036, with title " Grasping force estimation using state-space model and Kalman Filter "
 
 A video with tests and more details can be seen in https://www.youtube.com/watch?v=0O3DBShHLiM&t=2s
+
 For more information and any questions, contact me: brunodutra@ufpa.br 
 Laboratory: http://lacos.ufpa.br/
 
