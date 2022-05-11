@@ -3,6 +3,8 @@
 This code show how to open the  database of Emg signals and grasping force signal, disposable in extension " .m " in "EMG_force_datalog" path.
 
 More details about record of signals, used protocol, used electromyography and experimental setup are presented in "EMG_force_datalog" folder
+[Presented here](https://github.com/brunoodutra/My_Thesis/tree/main/Codes/EMG_force_datalog)
+
 
 ### Import libraries
 
@@ -101,9 +103,8 @@ axs[8].set_ylabel('Grasping force')
 
 plt.show()
 ```
-
-
     
-![png](Open_emg_and_data_force_files/Open_emg_and_data_force_13_0.png)
-    
-
+<p align="center">
+<img src="EMG_force_datalog/datalog_fig.png"
+     height="500" width="550" >
+</p>
