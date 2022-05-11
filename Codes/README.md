@@ -101,9 +101,8 @@ axs[8].set_ylabel('Grasping force')
 
 plt.show()
 ```
-
-
     
-![png](Open_emg_and_data_force_files/Open_emg_and_data_force_13_0.png)
-    
-
+<p align="center">
+<img src="EMG_force_datalog/datalog_fig.png"
+     height="500" width="550" >
+</p>
