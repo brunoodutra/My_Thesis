@@ -105,6 +105,5 @@ plt.show()
 ```
     
 <p align="center">
-<img src="EMG_force_datalog/datalog_fig.png"
-     height="500" width="550" >
+<img src="EMG_force_datalog/datalog_fig.png" >
 </p>

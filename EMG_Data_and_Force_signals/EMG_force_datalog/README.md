@@ -2,7 +2,10 @@
 
 The Datalog presented here was used in research paper published in Biomedical Signal Processing and Control https://doi.org/10.1016/j.bspc.2021.103036, with title " Grasping force estimation using state-space model and Kalman Filter "
 
-For more information and any questions contact me: brunodutra@ufpa.br 
+A video with tests and more details can be seen in https://www.youtube.com/watch?v=0O3DBShHLiM&t=2s
+
+For more information and any questions, contact me: brunodutra@ufpa.br 
+
 Laboratory: http://lacos.ufpa.br/
 
 ### The system used for datalog and real-time visualization is shown next Fig:
@@ -41,7 +44,6 @@ Number | Muscle name
 ### At the beginning of the experiment, each participant received the following command: "Position the ball with the sensor facing the palm, then press the ball three times. The first time squeeze it with a small force, the second time with a medium  force, and the third time with the highest force. Pay attention to the commands to start and end the movement". The sEMG and the force exerted by each volunteer were simultaneously recorded within the 0-100 \% range of the maximum voluntary contraction (MVC), as shown in next Fig:  
 
 <p align="center">
-<img src="datalog_fig.png"
-     height="500" width="550" >
+<img src="datalog_fig.png" >
 </p>
 
