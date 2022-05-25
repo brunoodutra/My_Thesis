@@ -31,7 +31,7 @@ force=  mat['Force'];
 Ts= mat['Ts'];
 ```
 
-#### Define th Signal EMG with the imput signal 
+#### Define the Signal EMG with the imput signal 
 
 
 
