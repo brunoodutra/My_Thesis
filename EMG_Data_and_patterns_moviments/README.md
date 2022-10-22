@@ -1,4 +1,4 @@
-## EMG Data and Pattners Moviments
+## EMG Data and Pattners Movements
 
 This code show how to open the database of Emg signals and pattners moviments, disposable in extension " .m " in "EMG_patterns_datalog" path.
 
