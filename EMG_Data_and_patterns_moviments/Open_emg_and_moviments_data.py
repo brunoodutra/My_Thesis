@@ -42,7 +42,7 @@ u8=emg[:,7];
 y=stimulus;
 
 # plot the EMG and Force  signals    
-fig, axs = plt.subplots(9, 1, figsize=(8, 8))
+fig, axs = plt.subplots(9, 1, figsize=(15, 20))
 fig.suptitle('Datalog')
 
 axs[0].plot(t, u1, '#129845')
