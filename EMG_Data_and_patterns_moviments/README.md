@@ -1,6 +1,6 @@
 ## EMG Data and Pattners Movements
 
-This code show how to open the database of Emg signals and pattners moviments, disposable in extension " .m " in "EMG_patterns_datalog" path.
+This code show how to open the database of Emg signals and pattners moviments, disponible in extension " .m " in "EMG_patterns_datalog" path.
 
 More details about record of signals, used protocol, used electromyography and experimental setup are presented in "EMG_patterns_datalog" folder
 [Presented here](https://github.com/brunoodutra/My_Thesis/tree/main/EMG_Data_and_pattners_moviments/EMG_pattners_datalog
